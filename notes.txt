@@ -1,0 +1,8 @@
+Future Implementations:
+
+1. History Controller class for creating/editing user's previous games
+2. JSON Controller class for JSON file interactions
+3. JSON file storage for:
+  - recording user's previous games
+  - recording user's stats from game to game
+4. Styles File
